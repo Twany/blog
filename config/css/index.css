@@ -1,0 +1,27 @@
+
+.biaoqian span{
+	font-size: 15px;
+	line-height: 15px;
+	font-weight: 100;
+	margin-top: 8px;
+	display: inline-block;
+	color: black;
+}
+.biaoqian span a{
+	color: black;
+}
+.nav li{
+	padding: 0
+}
+
+.nav li a{
+	font-size: 15px;
+	
+		
+}
+
+.nav li a:hover{
+	text-decoration: none;
+	background: black
+}
+
